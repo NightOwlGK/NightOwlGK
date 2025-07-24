@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Profile Hits :  [![HitCount](https://hits.dwyl.com/NightOwlGK/NightOwlGK.svg?style=flat)](http://hits.dwyl.com/NightOwlGK/NightOwlGK)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NightOwlGK.NightOwlGK)
+

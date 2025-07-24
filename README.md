@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: OWlly...
 - ⚡ Fun fact: humans are animals...
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NightOwlGK.NightOwlGK)
+- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NightOwlGK.NightOwlGK)
 
